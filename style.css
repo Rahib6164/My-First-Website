@@ -2,3 +2,10 @@ p{
     background-color: rgba(120, 99, 192, 0.205);
     border: 5px; 
 }
+.body{
+    background-color: rgba(0, 255, 255, 0.212);
+}
+
+h5{
+    background-color: rgba(167, 156, 139, 0.281);
+}
